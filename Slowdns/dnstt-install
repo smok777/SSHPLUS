@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/smok777/slowdns/main/install; chmod +x install; ./install
